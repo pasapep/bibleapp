@@ -30,7 +30,7 @@ function App () {
     return (
     <BrowserRouter> 
     <div>
-        <h2>NavBar</h2>
+        <h2>Bible Progress Tracker</h2>
         <NavBar />
     </div>
     <div> 

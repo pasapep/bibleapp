@@ -17,9 +17,7 @@ function NavBar() {
             Progress
           </Menu.Item>
           {/* Scoreboard Link */}
-          <Menu.Item as={Link} to="/scoreboard" header style={{ color: "yellow" }}>
-            Scoreboard
-          </Menu.Item>
+
           {/* Login Link */}
           <Menu.Item as={Link} to="/login" header style={{ color: "yellow" }}>
             Login
